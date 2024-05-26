@@ -34,10 +34,9 @@ The primary objectives of this project are:
 The project includes the following files and directories:
 
 - **README.md**: This readme file providing an overview of the project.
-- **data/**: Directory containing the dataset files.
-- **notebooks/**: Jupyter notebooks used for data exploration and analysis.
-- **scripts/**: Python scripts for data processing and analysis.
-- **reports/**: Generated reports and visualizations from the analysis.
+- **dataset/**: Directory containing the dataset files.
+- **colab/**: Jupyter notebooks used for data exploration and analysis.
+- **python/**: Generated python file from the colab file.
 
 ## Getting Started
 
